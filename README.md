@@ -6,7 +6,7 @@ _Software engineer based in Norway, actively seeking front-end / full stack deve
 
 ## 👩‍🎓 Education
 
-**Master of Science** in Electronic Systems Design - Embedded Systems<br>
+### **Master of Science** in Electronic Systems Design - Embedded Systems<br>
 [NTNU: Norwegian University of Science and Technology](https://www.ntnu.edu) - Trondheim, Norway _(Aug 2018 - Dec 2020)_ <br>
 
 **_Master's thesis:_** Interactivity in Digital Storytelling: An Influencing Factor of QoE<br>
@@ -21,7 +21,7 @@ Worked with [iTrollheimen AS](https://itrollheimen.no) and Nord Universitet to c
 <br><br>
 
 
-**Bachelor of Science** in Electrical Engineering<br>
+### **Bachelor of Science** in Electrical Engineering<br>
 [University of Oklahoma](http://www.ou.edu) - Norman, OK, USA _(Aug 2010 - May 2015)_ <br>
 
 **_Depth electives:_** electrical power systems and applied electromagnetics<br>
