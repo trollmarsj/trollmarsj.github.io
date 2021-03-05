@@ -8,12 +8,21 @@ _Software engineer based in Norway, actively seeking front-end / full stack deve
 
 **Master of Science** in Electronic Systems Design - Embedded Systems<br>
 [NTNU: Norwegian University of Science and Technology](https://www.ntnu.edu) - Trondheim, Norway _(Aug 2018 - Dec 2020)_ <br>
-**_Master's thesis:_** Interactivity in Digital Storytelling: An Influencing Factor of QoE
-Worked with iTrollheimen AS and Nord Universitet to create an augmented reality (AR) app prototype on iPad, _Home of the Trolls_, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users geolocation.
+**_Master's thesis:_** Interactivity in Digital Storytelling: An Influencing Factor of QoE<br>
+Worked with iTrollheimen AS and Nord Universitet to create an augmented reality (AR) app prototype on iPad, _Home of the Trolls_, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users' geolocation.
+<br><br>
 
 
 **Bachelor of Science** in Electrical Engineering<br>
 [University of Oklahoma](http://www.ou.edu) - Norman, OK, USA _(Aug 2010 - May 2015)_ <br>
+**_Depth electives:_** electrical power systems and applied electromagnetics<br>
+**_Capstone project:_** Video Auction Box<br>
+Worked with Maverick Technologies, LLC (USA), used Raspberry Pi to add a RCA to HDMI converter module to their existing product.
+<br><br>
+
+## 🔧 Technical Skills
+**Python** / **PostgresSQL** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
+
 
 ## 👩‍💻 Technical Experience
 
