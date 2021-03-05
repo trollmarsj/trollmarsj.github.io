@@ -9,7 +9,7 @@ _Software engineer based in Norway, actively seeking front-end / full stack deve
 **Master of Science** in Electronic Systems Design - Embedded Systems<br>
 [NTNU: Norwegian University of Science and Technology](https://www.ntnu.edu) - Trondheim, Norway _(Aug 2018 - Dec 2020)_ <br>
 **_Master's thesis:_** Interactivity in Digital Storytelling: An Influencing Factor of QoE<br>
-Worked with iTrollheimen AS and Nord Universitet to create an augmented reality (AR) app prototype on iPad, _Home of the Trolls_, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users' geolocation.<br>
+Worked with [iTrollheimen AS](https://itrollheimen.no) and Nord Universitet to create an augmented reality (AR) app prototype, _Home of the Trolls_, on iPad using Unity, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users' geolocation.<br>
 **_Relevant courses:_**
   - [Low level programming](https://www.ntnu.edu/studies/courses/TDT4258#tab=omEmnet)
   - [Real-time programming](https://www.ntnu.edu/studies/courses/TTK4145#tab=omEmnet)
@@ -27,7 +27,7 @@ Worked with Maverick Technologies, LLC (USA), used Raspberry Pi to add a RCA to 
 <br><br>
 
 ## 🔧 Technical Skills
-**Python** / **PostgresSQL** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
+**Python** / **PostgresSQL** / **Flask** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
 
 
 ## 👩‍💻 Technical Experience
@@ -37,7 +37,7 @@ Provider of mission critical software systems to energy marketing and trading co
   - Worked with CAISO Settlements team to analyze data from ISO.
   - Identified and debugged codes.
   - Created flowchart documents.
-  - **_Technologies used:_** SQL Developer, Java, Microsoft Visio
+  - **_Technologies used:_** SQL Developer, Java, Microsoft Visio.
 <br><br>
 
 ## 🛠️ Other Experience
