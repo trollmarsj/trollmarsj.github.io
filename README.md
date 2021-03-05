@@ -9,7 +9,13 @@ _Software engineer based in Norway, actively seeking front-end / full stack deve
 **Master of Science** in Electronic Systems Design - Embedded Systems<br>
 [NTNU: Norwegian University of Science and Technology](https://www.ntnu.edu) - Trondheim, Norway _(Aug 2018 - Dec 2020)_ <br>
 **_Master's thesis:_** Interactivity in Digital Storytelling: An Influencing Factor of QoE<br>
-Worked with iTrollheimen AS and Nord Universitet to create an augmented reality (AR) app prototype on iPad, _Home of the Trolls_, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users' geolocation.
+Worked with iTrollheimen AS and Nord Universitet to create an augmented reality (AR) app prototype on iPad, _Home of the Trolls_, which aimed at providing an AR experience for the tourists in Trollheimen. Different troll stories were displayed, based on the users' geolocation.<br>
+**_Relevant courses:_**
+  - [Low level programming](https://www.ntnu.edu/studies/courses/TDT4258#tab=omEmnet)
+  - [Real-time programming](https://www.ntnu.edu/studies/courses/TTK4145#tab=omEmnet)
+  - [Algorithms and data structure](https://www.ntnu.no/studier/emner/TDT4120#tab=omEmnet)
+  - [Computer architecture](https://www.ntnu.edu/studies/courses/TDT4260#tab=omEmnet)
+  - [Artificial intelligence](https://www.ntnu.edu/studies/courses/TDT4136#tab=omEmnet)
 <br><br>
 
 
