@@ -31,7 +31,7 @@ Worked with Maverick Technologies, LLC (USA), used Raspberry Pi to add a RCA to 
 <br><br>
 
 ## 🔧 Technical Skills
-**Python** / **PostgresSQL** / **Flask** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
+**Python** / **PostgreSQL** / **Flask** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
 <br><br>
 
 
