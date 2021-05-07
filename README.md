@@ -34,6 +34,10 @@ Worked with Maverick Technologies, LLC (USA), used Raspberry Pi to add a RCA to 
 **Python** / **PostgreSQL** / **Flask** / **JavaScript** / **HTML** / **CSS** / **Java** / **Git**
 <br><br>
 
+## 📜 Certificate
+**Microsoft Technology Associate: HTML5 Application Development Fundamentals**
+<br><br>
+
 
 ## 👩‍💻 Technical Experience
 
